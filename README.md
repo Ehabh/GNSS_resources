@@ -132,6 +132,7 @@ Have something to add or change? Open a [pull request](https://github.com/barbea
 - WAAS
   - [Real-time status (official)](https://www.nstb.tc.faa.gov/RT_WaasSatelliteStatus.htm)
   
+---
 
 Added the following from @mvarga1989 repo
   
