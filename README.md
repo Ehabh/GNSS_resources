@@ -115,9 +115,9 @@ Have something to add or change? Open a [pull request](https://github.com/barbea
 - Li et al. - ["Ambiguity resolution for smartphone GNSS precise positioning: effect factors and performance"](https://link.springer.com/article/10.1007/s00190-022-01652-7), Journal of Geodesy 96, 63 (2022). https://doi.org/10.1007/s00190-022-01652-7.
 
 ### Books
-
+- [Introduction to GNSS](https://novatel.com/an-introduction-to-gnss) by Hexagon | NovAtel - Detailed introduction to many major concepts around positioning with a heavy focus on GNSS.
 - [Global Navigation Satellite Systems - Education Curriculum](http://www.unoosa.org/pdf/icg/2013/Ed_GNSS_eBook.pdf) by United Nations Office for Outer Space Affairs. Good glossary of GNSS terms.
-- [GNSS Data Processing books](https://gage.upc.es/forum/gnss-books/) by UPC/gAGE - Theory and exercises to learn GNSS data processing (e.g., range modelling, navigation equations, Kalman filter)
+- [GNSS Data Processing books](https://gage.upc.edu/en/learning-materials/library/gnss-books) by UPC/gAGE - Theory and exercises to learn GNSS data processing (e.g., range modelling, navigation equations, Kalman filter)
 
 ### Lists
 
