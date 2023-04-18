@@ -1,8 +1,7 @@
-Forked this besutiful list from @barbeau repo
+Forked this besutiful list from @barbeau repo (https://github.com/barbeau/awesome-gnss)
 
 ##### Community list of open-source &/or free Global Navigation Satellite System (GNSS) software and resources :satellite:
 
-Have something to add or change? Open a [pull request](https://github.com/barbeau/awesome-gnss/pulls) or [issue](https://github.com/barbeau/awesome-gnss/issues).
 
 ## Contents
 
@@ -134,9 +133,9 @@ Have something to add or change? Open a [pull request](https://github.com/barbea
   
 ---
 
-Added the following from @mvarga1989 repo
+Added the following from @mvarga1989 repo (https://github.com/mvarga1989/Awesome_GNSSreceivers)
   
-Please keep in mind that the links provided may not be the official website of the company and they may have changed since my last update.
+Please keep in mind that the links provided may not be the official website of the company and they may have changed since the last update.
 
 <center>
   
