@@ -36,7 +36,7 @@ Forked this besutiful list from @barbeau repo (https://github.com/barbeau/awesom
 
 ### Desktop tools (open-source)
 
-- **Android GNSS Logger to RINEX converter** ([Source code](https://github.com/rokubun/android_rinex)) - A Python script that converts raw measurements in the CSV format supported by [GnssLogger](https://github.com/google/gps-measurement-tools#gnsslogger) and [GPSTest](https://github.com/barbeau/gpstest) to the RINEX format.
+- **Android GNSS Logger to RINEX converter** ([Source code](https://github.com/rokubun/android_rinex)) - A Python script that converts raw measurements in the CSV format supported by [GnssLogger](https://github.com/google/gps-measurement-tools#gnsslogger) and [GPSTest](https://github.com/barbeau/gpstest) to the RINEX format. Runs on :Linux: & :Windows:
 - **Anubis** ([Download](https://gnutsoftware.com/software/anubis)) - Quality checks for GNSS data in RINEX2/3 format. Basic version is free and open-source, Pro and Real-time features available at a cost.
 - **BKG Ntrip Client (BNC)** ([Download](https://igs.bkg.bund.de/ntrip/bnc)) - BNC is an open-source multi-stream client designed for a variety of real-time GNSS applications. It was primarily designed for receiving data streams from any Ntrip supporting Broadcaster. It can compute a real-time Precise Point Positioning (PPP) solution from RTCM streams or RINEX files. See related open-source tools for Ntrip on [this page](http://software.rtcm-ntrip.org/).
 - **EGNOS Toolkit** ([Download](https://sourceforge.net/projects/libegnos/files/), [Source code](https://sourceforge.net/projects/libegnos/))-  A set of tools to work with Satellite-Based Augmentation Systems (SBAS), specially EGNOS. Support Linux.
