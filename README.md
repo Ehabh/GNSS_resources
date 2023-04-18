@@ -1,6 +1,6 @@
 Forked this besutiful list from @barbeau repo
 
-##### Community list of open-source Global Navigation Satellite System (GNSS) software and resources :satellite:
+##### Community list of open-source &/or free Global Navigation Satellite System (GNSS) software and resources :satellite:
 
 Have something to add or change? Open a [pull request](https://github.com/barbeau/awesome-gnss/pulls) or [issue](https://github.com/barbeau/awesome-gnss/issues).
 
