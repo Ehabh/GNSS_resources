@@ -55,6 +55,7 @@ Forked this besutiful list from @barbeau repo (https://github.com/barbeau/awesom
 
 - **GFZRNX - RINEX GNSS Data Conversion and Manipulation Toolbox** [Download](https://dataservices.gfz-potsdam.de/panmetaworks/showshort.php?id=escidoc:1577894) - Supports various translation, conversion, and quality check operations on RINEX data.
 - **gLAB Lab** ([Download](https://gage.upc.es/gLAB/)) - Performs precise modeling of GNSS observables (pseudorange and carrier phase) at the centimetre level, allowing both standalone GPS positioning and PPP. Supports RINEX-3.00, SP3, ANTEX and SINEX, as well as GPS, Galileo, and GLONASS. Developed under an European Space Agency (ESA) contract by the Universitat Politecnica de Catalunya (UPC). Free to download.
+- **SNIP** ([WebPage](https://www.use-snip.com/snip-overview/)), SNIP is an NTRIP Caster that is easy to use for most aplications.
 - **teqc** ([Download](https://www.unavco.org/software/data-processing/teqc/teqc.html)) - Translation, editing, and quality check of GNSS data in native and in RINEX/BINEX formats. Free to download. End-of-life as of February 25, 2019.
 
 ### Web tools (proprietary)
@@ -132,6 +133,19 @@ Forked this besutiful list from @barbeau repo (https://github.com/barbeau/awesom
 - WAAS
   - [Real-time status (official)](https://www.nstb.tc.faa.gov/RT_WaasSatelliteStatus.htm)
   
+---
+### NTRIP Clients, started from information on this [page] (https://www.use-snip.com/kb/knowledge-base/where-do-i-get-a-free-ntrip-client/)
+
+- [NTRIP Client](http://lefebure.com/software/ntripclient/) PC based.
+- [Lefebure NTRIP Client](https://play.google.com/store/apps/details?id=com.lefebure.ntripclient) for Android.
+- RTKLIB & the [RTKEXPLORER] (https://rtkexplorer.com/)  the  [Source Code](https://github.com/rtklibexplorer/RTKLIB/releases).
+- [BKG Ntrip Client (BNC)](https://igs.bkg.bund.de/ntrip/download).
+- [NtripClient](https://www.dstoecker.eu/), [Ntrip Version 2.0 Command Line Client](https://software.rtcm-ntrip.org/) offered by Dirk Stoecker Alberding GmbH.
+- GnssSurfer (http://217.9.43.196/Download/GnssSurferV1.10.zip)
+- SXBlue RTN (https://sxbluegps.com/for-downloads-please-browse-individual-products/)
+
+
+
 ---
 
 Added the following from @mvarga1989 repo (https://github.com/mvarga1989/Awesome_GNSSreceivers)
