@@ -93,6 +93,7 @@ Forked this besutiful list from @barbeau repo (https://github.com/barbeau/awesom
 
 ### Videos
 
+- [*SPECIAL TOPICS 2 - GPS - Michel van Biezen Channel*](https://www.youtube.com/playlist?list=PLX2gX-ftPVXXGdn_8m2HCIJS7CfKMCwol).
 - [*How to get one-meter location-accuracy from Android devices (Google I/O '18)*](https://www.youtube.com/watch?v=vywGgSrGODU) by Google - Discussion of calculating position from raw GNSS measurements, including carrier phase measurements, as well as Wi-Fi RTT.
 
 ### Articles
