@@ -134,7 +134,7 @@ Forked this besutiful list from @barbeau repo (https://github.com/barbeau/awesom
   - [Real-time status (official)](https://www.nstb.tc.faa.gov/RT_WaasSatelliteStatus.htm)
   
 ---
-### NTRIP Clients, started from information on this [page] (https://www.use-snip.com/kb/knowledge-base/where-do-i-get-a-free-ntrip-client/)
+### NTRIP Clients, started from information on [use-ssnip page](https://www.use-snip.com/kb/knowledge-base/where-do-i-get-a-free-ntrip-client/)
 
 - [NTRIP Client](http://lefebure.com/software/ntripclient/) PC based.
 - [Lefebure NTRIP Client](https://play.google.com/store/apps/details?id=com.lefebure.ntripclient) for Android.
