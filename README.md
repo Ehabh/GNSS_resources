@@ -91,6 +91,7 @@ Forked this besutiful list from @barbeau repo (https://github.com/barbeau/awesom
 ### Wikis
 
 - [Navipedia](https://gssc.esa.int/navipedia/index.php/Main_Page) by ESA - An online reference for GNSS systems and data processing.
+- [How to Build a DIY GNSS Reference Station](https://learn.sparkfun.com/tutorials/how-to-build-a-diy-gnss-reference-station/all) from Sparkfun.
 
 ### Videos
 
