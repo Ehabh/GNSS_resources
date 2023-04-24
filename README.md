@@ -136,14 +136,13 @@ Forked this besutiful list from @barbeau repo (https://github.com/barbeau/awesom
 ---
 ### NTRIP Clients, started from information on [use-ssnip page](https://www.use-snip.com/kb/knowledge-base/where-do-i-get-a-free-ntrip-client/)
 
-- [NTRIP Client](http://lefebure.com/software/ntripclient/) PC based.
-- [Lefebure NTRIP Client](https://play.google.com/store/apps/details?id=com.lefebure.ntripclient) for Android.
-- RTKLIB & the [RTKEXPLORER] (https://rtkexplorer.com/)  the  [Source Code](https://github.com/rtklibexplorer/RTKLIB/releases).
-- [BKG Ntrip Client (BNC)](https://igs.bkg.bund.de/ntrip/download).
-- [NtripClient](https://www.dstoecker.eu/), [Ntrip Version 2.0 Command Line Client](https://software.rtcm-ntrip.org/) offered by Dirk Stoecker Alberding GmbH.
+- [NTRIP Client](http://lefebure.com/software/ntripclient/) PC based, offered by Lefebure Design, LLC.
+- [Lefebure NTRIP Client](https://play.google.com/store/apps/details?id=com.lefebure.ntripclient) free android product, offered by Lefebure Design.
+- RTKLIB (already discussed above)& the [RTKEXPLORER] (https://rtkexplorer.com/)  the  [Source Code](https://github.com/rtklibexplorer/RTKLIB/releases).
+- [BKG Ntrip Client (BNC)](https://igs.bkg.bund.de/ntrip/download) RTKexplorer has been developped from RTKLIB, where some problems with the RTKLIB connection logic have been solved.
+- [NtripClient](https://www.dstoecker.eu/), [Ntrip Version 2.0 Command Line Client](https://software.rtcm-ntrip.org/) free product offered by BKG offered by Dirk Stoecker Alberding GmbH. C source code avialable here(http://igs.bkg.bund.de/root_ftp/NTRIP/software/ntripclient.zip) & here(https://software.rtcm-ntrip.org/).
 - GnssSurfer (http://217.9.43.196/Download/GnssSurferV1.10.zip)
 - SXBlue RTN (https://sxbluegps.com/for-downloads-please-browse-individual-products/)
-
 
 
 ---
